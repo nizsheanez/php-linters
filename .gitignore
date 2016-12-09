@@ -1,0 +1,27 @@
+# Sublime project files
+*sublime*
+
+# IDEA
+.project
+.idea
+*.iml
+
+
+dev.yaml
+test.yaml
+dev.yml
+test.yml
+
+*.pb.go
+
+.cache/*
+.tsdrc
+
+client/web/ts/typings/*
+#client/web/ts/transfer/*
+client/web/node_modules
+client/web/lib/*
+
+client/public/css/*
+client/public/img/*
+client/public/js/src/*
